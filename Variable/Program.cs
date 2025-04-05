@@ -1,4 +1,15 @@
-﻿namespace Variable
+﻿/*
+ *  프로그래밍 언어 교육
+ *  - 복습 : 아이템 정보 출력 
+ *  - 사용할 함수 : Console.SetCurSorPosition(), Console.WriteLine()
+ * 
+ *  - 예습 : 내가 제일 좋아하는 게임
+ *  -        게임의 장르, 플랫폼, 조작 방법, 컨텐츠
+ *  -        <구현해보고 싶은 부분>, <수정하고 싶은 부분>
+ */
+
+
+namespace Variable
 {
     internal class Program
     {
