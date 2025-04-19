@@ -15,6 +15,73 @@
             int heartPosY = 0;
             string heartExplain = "아이템의 좌표와 플레이어의 좌표가 일치하면 체력을 증가시킨다";
 
+            string[] IMAGE =
+            {
+                "┏========================================┐",
+                "│  TTTTTTT   I  TTTTTTT I  L    EEEEE    │",
+                "│     T      I     T    I  L    E        │",
+                "│     T      I     T    I  L    EEEEE    │",
+                "│     T      I     T    I  L    E        │",
+                "│     T      I     T    I  LLLL EEEEE    |",
+                "└========================================┘"
+            };
+
+            
+
+            string[] REMOVE =
+            {
+               "                    ",
+               "                    ",
+               "                    ",
+               "                    ",
+               "                    ",
+               "                    ",
+               "                    ",
+               "                    ",
+               "                    ",
+               "                    "
+            };
+
+
+            string[] IMAGE4 =
+            {
+           "   ■■■■■■   ",
+            "  ■      ■  ",
+            " ■  ■■■■  ■ ",
+            " ■ ■    ■ ■ ",
+            "   ■■■■■■   ",
+            "  ■  ■■  ■  ",
+            " ■        ■ ",
+            "  ■■■■■■■■  "
+            };
+
+            Scene scene = new Scene();
+            Enemy enemy = new Enemy();
+            scene.DrawImage(IMAGE, 10, 0);
+
+            int MonsterX = 0;
+            int MonsyerY = 20;
+
+            while(true)
+            {
+                MonsterX++;
+
+                scene.DrawImage(enemy.IMAGE2, MonsterX, MonsyerY); // 왼쪽
+
+                Thread.Sleep(1000);
+
+                enemy.RemoveImage(enemy.IMAGE2);
+                Thread.Sleep(1000);
+
+                scene.DrawImage(enemy.IMAGE3, MonsterX, MonsyerY); // 오른쪽
+
+                Thread.Sleep(1000);
+            }
+       
+            // for 반복문으로 표현하기
+
+
+
             Console.WriteLine($"아이템의 모양 : {shape}");
             Console.WriteLine($"아이템의 모양 : {shape}");
             Console.WriteLine($"아이템의 모양 : {shape}");
