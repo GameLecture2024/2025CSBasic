@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\2025CSBasic\RunGame\bin\Debug\net8.0\RunGame.exe
+C:\Users\Administrator\Desktop\2025CSBasic\RunGame\bin\Debug\net8.0\RunGame.deps.json
+C:\Users\Administrator\Desktop\2025CSBasic\RunGame\bin\Debug\net8.0\RunGame.runtimeconfig.json
+C:\Users\Administrator\Desktop\2025CSBasic\RunGame\bin\Debug\net8.0\RunGame.dll
+C:\Users\Administrator\Desktop\2025CSBasic\RunGame\bin\Debug\net8.0\RunGame.pdb
+C:\Users\Administrator\Desktop\2025CSBasic\RunGame\obj\Debug\net8.0\RunGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\2025CSBasic\RunGame\obj\Debug\net8.0\RunGame.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\2025CSBasic\RunGame\obj\Debug\net8.0\RunGame.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\2025CSBasic\RunGame\obj\Debug\net8.0\RunGame.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2025CSBasic\RunGame\obj\Debug\net8.0\RunGame.sourcelink.json
+C:\Users\Administrator\Desktop\2025CSBasic\RunGame\obj\Debug\net8.0\RunGame.dll
+C:\Users\Administrator\Desktop\2025CSBasic\RunGame\obj\Debug\net8.0\refint\RunGame.dll
+C:\Users\Administrator\Desktop\2025CSBasic\RunGame\obj\Debug\net8.0\RunGame.pdb
+C:\Users\Administrator\Desktop\2025CSBasic\RunGame\obj\Debug\net8.0\RunGame.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\2025CSBasic\RunGame\obj\Debug\net8.0\ref\RunGame.dll
