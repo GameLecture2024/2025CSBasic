@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20250405", "..\20250405\202
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20250419", "..\20250419\20250419.csproj", "{E916226B-CE4D-46A1-9D75-8360BBF17A7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunGame", "..\RunGame\RunGame.csproj", "{AF968196-D97F-4253-9819-57AE15C003DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunGame", "..\RunGame\RunGame.csproj", "{AF968196-D97F-4253-9819-57AE15C003DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoryGame", "..\StoryGame\StoryGame.csproj", "{18B03215-8B6B-4BCD-A9CE-404D9784EE3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{AF968196-D97F-4253-9819-57AE15C003DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF968196-D97F-4253-9819-57AE15C003DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF968196-D97F-4253-9819-57AE15C003DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B03215-8B6B-4BCD-A9CE-404D9784EE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B03215-8B6B-4BCD-A9CE-404D9784EE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B03215-8B6B-4BCD-A9CE-404D9784EE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B03215-8B6B-4BCD-A9CE-404D9784EE3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

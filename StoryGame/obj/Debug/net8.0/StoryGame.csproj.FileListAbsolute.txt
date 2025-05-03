@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\2025CSBasic\StoryGame\bin\Debug\net8.0\StoryGame.exe
+C:\Users\Administrator\Desktop\2025CSBasic\StoryGame\bin\Debug\net8.0\StoryGame.deps.json
+C:\Users\Administrator\Desktop\2025CSBasic\StoryGame\bin\Debug\net8.0\StoryGame.runtimeconfig.json
+C:\Users\Administrator\Desktop\2025CSBasic\StoryGame\bin\Debug\net8.0\StoryGame.dll
+C:\Users\Administrator\Desktop\2025CSBasic\StoryGame\bin\Debug\net8.0\StoryGame.pdb
+C:\Users\Administrator\Desktop\2025CSBasic\StoryGame\obj\Debug\net8.0\StoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\2025CSBasic\StoryGame\obj\Debug\net8.0\StoryGame.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\2025CSBasic\StoryGame\obj\Debug\net8.0\StoryGame.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\2025CSBasic\StoryGame\obj\Debug\net8.0\StoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2025CSBasic\StoryGame\obj\Debug\net8.0\StoryGame.sourcelink.json
+C:\Users\Administrator\Desktop\2025CSBasic\StoryGame\obj\Debug\net8.0\StoryGame.dll
+C:\Users\Administrator\Desktop\2025CSBasic\StoryGame\obj\Debug\net8.0\refint\StoryGame.dll
+C:\Users\Administrator\Desktop\2025CSBasic\StoryGame\obj\Debug\net8.0\StoryGame.pdb
+C:\Users\Administrator\Desktop\2025CSBasic\StoryGame\obj\Debug\net8.0\StoryGame.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\2025CSBasic\StoryGame\obj\Debug\net8.0\ref\StoryGame.dll
